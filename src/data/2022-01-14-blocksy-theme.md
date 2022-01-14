@@ -6,7 +6,7 @@ tags:
   - premium
 type:
   - theme
-image: assets/img/images-1-.jpeg
+image: /assets/img/images-1-.jpeg
 imageAlt: blocksyImg
 description: Lighter and faster than any WordPress themes.
 link: https://r.freemius.com/5115/4558812/https://creativethemes.com/blocksy/starter-sites/
