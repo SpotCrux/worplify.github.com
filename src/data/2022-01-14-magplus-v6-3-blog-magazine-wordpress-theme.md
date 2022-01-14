@@ -7,7 +7,7 @@ tags:
   - theme
 type:
   - theme
-image: assets/img/magplus.jpg
+image: /assets/img/magplus.jpg
 imageAlt: MagPlus
 description: sfasddas
 link: index
