@@ -3,7 +3,7 @@ title: Blocksy Theme
 author: admin
 date: 2022-01-14T07:52:33.164Z
 tags:
-  - theme
+  - premium
 type:
   - theme
 image: assets/img/images-1-.jpeg
