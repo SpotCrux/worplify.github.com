@@ -4,7 +4,7 @@ author: admin
 date: 2022-01-10
 tags: premium
 type: Theme
-image: assets/img/astratheme.jpg
+image: ./assets/img/astratheme.jpg
 imageAlt: wpAstra
 description: Fastest, Lightweight ang Highly Customizable WordPress Theme
 link: https://wpastra.com/?bsf=7701
