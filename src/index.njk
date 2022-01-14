@@ -1,0 +1,29 @@
+---
+title: Download Free Themes & Plugins
+layout: 'base.njk'
+---
+    <!--Header-->
+<main>
+
+<section id="home" class="home">
+    <div class="home-content">
+    <h1 class="heading">Download Themes & Plugins for Free</h1>
+    <p class="sub">Make your WordPress developing journey enjoyable. </p>
+    </div>
+</section>
+
+<section class="card-container">
+    <h1 class="heading">Latest Uploads</h1>
+    <ul class="cards">
+        
+        {%- for post in collections.featured | reverse -%}
+        {% include 'data.njk' %}
+        {%- endfor -%}
+        
+    </ul>
+</section>
+</main>
+
+
+<!--Script Link-->
+

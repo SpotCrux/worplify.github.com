@@ -1,0 +1,19 @@
+---
+title: Download Free Themes!
+layout: 'base.njk'
+---
+
+
+
+<section class="card-container">
+    <h1 class="heading">Free Themes</h1>
+
+    <ul class="cards">
+      
+        {%- for post in collections.theme | reverse -%}
+                  {% include 'data.njk' %}
+        {%- endfor -%}
+    </ul>
+</section>
+
+ 

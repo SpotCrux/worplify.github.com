@@ -1,0 +1,20 @@
+---
+title: Premium Themes and Plugins
+layout: 'base.njk'
+---
+
+
+
+<section class="card-container">
+    <h1 class="heading">Premium Themes & Plugins</h1>
+    <p class="premium-p">This page is containing of <b>Valid License and Premium themes</b>. It is safe to use in your professional website. </p>
+
+
+
+    <ul class="cards">
+      
+        {%- for post in collections.premium | reverse -%}
+                  {% include 'data.njk' %}
+        {%- endfor -%}
+    </ul>
+</section>
