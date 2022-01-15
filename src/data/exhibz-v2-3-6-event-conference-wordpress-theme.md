@@ -10,7 +10,7 @@ type:
 image: https://i.imgur.com/Ad3FP66.jpg
 imageAlt: exhibzImg
 description: " Event Conference WordPress Theme"
-link: http://up-4.net/d/RN9m
+link: https://mega.nz/file/JY8m0BYD#E8JLEi6Ng-y1yJmWF-7HsWlYN_haYYDdmcK5TJhVVz8
 ---
 <!--StartFragment-->
 
