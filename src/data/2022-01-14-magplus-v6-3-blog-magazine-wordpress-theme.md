@@ -9,7 +9,7 @@ type:
   - theme
 image: /assets/img/magplus.jpg
 imageAlt: MagPlus
-description: sfasddas
+description: MagPlus is a Blog / Magazine / Newspaper Theme for WordPress
 link: index
 ---
 Demo: <https://themeforest.net/item/magplus-blog-magazine-wordpress-theme/19761728>
