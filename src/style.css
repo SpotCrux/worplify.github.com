@@ -215,7 +215,7 @@ a {
 }
 .card-container .cards .card-content {
     background: #fff;
-    height: 400px;
+    height: 380px;
 }
 .card-container .cards .card-content img{
 width: 100%; 
@@ -254,7 +254,7 @@ width: 100%;
     background: #8e45b3;
     padding: 10px 30px;
     border-radius: 5px;
-    margin: -15px 0 0 10px;
+    margin: -10px 0 0 10px;
 }
 
 
@@ -286,7 +286,7 @@ width: 100%;
     margin-bottom: 25px;
 }
 
-.post-container .post-content a{
+.post-container .post-content .card-btn{
     font-size: .8rem;
     color: #fff;
     background: #8e45b3;
