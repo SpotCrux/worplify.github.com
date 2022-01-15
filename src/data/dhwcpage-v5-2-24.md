@@ -4,7 +4,7 @@ author: admin
 date: 2022-01-15T09:20:19.390Z
 tags:
   - features
-  - plugins
+  - plugin
 type:
   - Plugin
 image: https://i.imgur.com/erAo2IQ.jpg
