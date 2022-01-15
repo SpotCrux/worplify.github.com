@@ -10,7 +10,7 @@ type:
 image: assets/img/kingimg.png
 imageAlt: KingImg
 description: WordPress Viral Magazine Theme
-link: "#"
+link: https://mega.nz/file/lNdTSCQQ#Aoy5NCC_YXI6vG62Kskg_gYqPYCBER3kqnm-aEvR00Y
 ---
 <!--StartFragment-->
 
