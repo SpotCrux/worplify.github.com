@@ -1,5 +1,5 @@
 ---
-title: MagPlus v6.3 - Blog & Magazine WordPress Theme
+title: MagPlus v6.3
 author: admin
 date: 2022-01-14T22:28:00.000Z
 tags:
@@ -9,8 +9,8 @@ type:
   - theme
 image: /assets/img/magplus.jpg
 imageAlt: MagPlus
-description: sfasddas
-link: index
+description: Blog & Magazine WordPress Theme
+link: https://mega.nz/file/RQd3mCjT#kQKpMzL20cgto_B_18s5EskEY0Cspd0lAfUze3odhPM
 ---
 Demo: <https://themeforest.net/item/magplus-blog-magazine-wordpress-theme/19761728>
 
