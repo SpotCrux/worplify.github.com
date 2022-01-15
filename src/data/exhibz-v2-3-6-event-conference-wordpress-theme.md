@@ -1,14 +1,15 @@
 ---
-title: Exhibz v2.3.6 - Event Conference WordPress Theme
+title: Exhibz v2.3.6
 author: admin
 date: 2022-01-15T08:47:54.800Z
 tags:
+  - featured
   - theme
 type:
   - theme
 image: https://i.imgur.com/Ad3FP66.jpg
 imageAlt: exhibzImg
-description: Free WordPress Theme
+description: " Event Conference WordPress Theme"
 link: http://up-4.net/d/RN9m
 ---
 <!--StartFragment-->
