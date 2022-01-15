@@ -10,7 +10,7 @@ type:
 image: /assets/img/magplus.jpg
 imageAlt: MagPlus
 description: Blog & Magazine WordPress Theme
-link: index
+link: https://mega.nz/file/RQd3mCjT#kQKpMzL20cgto_B_18s5EskEY0Cspd0lAfUze3odhPM
 ---
 Demo: <https://themeforest.net/item/magplus-blog-magazine-wordpress-theme/19761728>
 
