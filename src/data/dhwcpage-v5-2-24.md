@@ -3,7 +3,7 @@ title: DHWCPage v5.2.24
 author: admin
 date: 2022-01-15T09:20:19.390Z
 tags:
-  - features
+  - featured
   - plugin
 type:
   - Plugin
