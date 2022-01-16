@@ -2,7 +2,9 @@
 title: Classiads v5.10.2
 author: admin
 date: 2022-01-16T12:17:58.875Z
-tags: post
+tags:
+  - featured
+  - theme
 type:
   - Themes|Nulled
 image: /assets/img/classiads.jpg
