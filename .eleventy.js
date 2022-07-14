@@ -1,4 +1,6 @@
 const{ DateTime } = require("luxon");
+const UpgradeHelper = require("@11ty/eleventy-upgrade-help");
+const EleventyVitePlugin = require("@11ty/eleventy-plugin-vite");
 
 
 module.exports = function(eleventyConfig) {
@@ -17,4 +19,9 @@ module.exports = function(eleventyConfig) {
         output: "public"
       }
     };
+    module.exports = function(eleventyConfig) {
+    };
+    eleventyConfig.addPlugin(EleventyVitePlugin);
   }
+
+
